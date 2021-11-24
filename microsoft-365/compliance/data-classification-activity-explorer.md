@@ -58,17 +58,13 @@ Every account that accesses and uses data classification must have a license ass
 > [!IMPORTANT]
 > Access to Activity explorer via the Security reader or Device Management role groups or other has been removed-->
 
-**Microsoft 365 role groups**
+**Microsoft 365 roles**
 
 - Global administrator
 - Compliance administrator
 - Security administrator
 - Compliance data administrator
-
-**Microsoft 365 roles**
-
-- Compliance administrator
-- Security administrator
+- Global Reader
 - Security Reader
 
 ## Activity types
